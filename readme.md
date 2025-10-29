@@ -16,9 +16,6 @@ repo_part: "Grove_Touch_Sensor"
 product_url: "http://wiki.seeedstudio.com/Grove-Touch_Sensor"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Touch_Sensor.git"
 embedded_example_file: "examples/Grove_Touch_Sensor_minimal/Grove_Touch_Sensor_minimal.ino"
-title: 'Berührungssensor'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
